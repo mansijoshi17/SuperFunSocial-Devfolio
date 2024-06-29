@@ -37,28 +37,6 @@ GameAsset : https://github.com/jaydippatel83/superfunsocial/blob/main/contracts/
 
 * Token Smash is a game within SuperFunSocial where players can engage in fun and rewarding gameplay.
 
-### UX notes and game play instructions:
-  
- * Swipe-Down Gesture in Telegram Mobile App:
-      * In the Telegram mobile app, the swipe-down gesture is reserved for minimizing/closing the mini app. So when a user tries to perform a swap in the vertically downward     
-             direction, the app attempts to minimize instead. The same works fine in the Telegram web app.
-
-           * **Workaround: Use an upward swipe to perform the swaps. We are looking into the solution for this.**
-
-
- * Game Room Closure:
-      * When a player leaves the game, sometimes the game room closes after a few seconds. If another player joins the game in this window, it is possible that they may get stuck after the loading bar in the lobby screen is finished loading.
-
-           * **Workaround: Refresh the game. This makes the room get deleted and a new room is created. We are looking into the solution.**
-         
-
-* Asset Store in Development:
-
-   * The asset store is in development, so purchases won’t have any effect on the gameplay currently. This will be ready soon.
- 
-
-* If you’d like to play this in PvP mode, please make sure to join the game as a second player before the timer (indicated by the loading bar at the top of the lobby) runs out.
-
 
 # It includes
 <img width="1440" alt="Screenshot 2024-06-29 at 9 38 42 AM" src="https://github.com/mansijoshi17/SuperFunSocial-Devfolio/assets/54347081/4eac41b3-3ce2-4ea8-8efa-a16c0bd1ec09">
