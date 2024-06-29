@@ -2,6 +2,8 @@
 
 ![SuperFunSocial - Farcaster](https://github.com/jaydippatel83/superfunsocial/assets/54347081/a1970a96-2fd4-4bdc-9f57-20ab1f3ada90)
 
+## Note
+ If full project source code with Farcaster Client Web app, Game play etc is required for hackathon judging, then please leave a comment below for private repo access.
 
 ## What problem we are solving?
 
@@ -61,5 +63,4 @@ GameAsset : https://github.com/jaydippatel83/superfunsocial/blob/main/contracts/
 [Anjali Thacker](https://x.com/ianjali_th "Visit Anjali's Profile")
 
 
-## Note
- If full project source code with Farcaster Client Web app, Game play etc is required for hackathon judging, then please leave a comment below for private repo access.
+
