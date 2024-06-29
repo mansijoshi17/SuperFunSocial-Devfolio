@@ -86,3 +86,7 @@ GameAsset : https://github.com/jaydippatel83/superfunsocial/blob/main/contracts/
 [Mansi Joshi](https://x.com/imansi_joshi "Visit Mansi's Profile")
 
 [Anjali Thacker](https://x.com/ianjali_th "Visit Anjali's Profile")
+
+
+## Note
+ If full project source code with Farcaster Client Web app, Game play etc is required for hackathon judging, then please leave a comment below for private repo access.
