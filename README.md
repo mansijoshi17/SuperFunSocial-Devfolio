@@ -8,7 +8,7 @@
 **We are solving the problem of creators who don't receive real value for their humorous content. They only get "Likes" and "reputation," and have brand deals as their only earning option, while social media platforms capture all the direct monetary value. Funny content can reach millions in no time, but creators get no tangible reward for their humorous content and contribution towards the growth of the platform.**
 
 ## Solution
-**SuperFunSocial is a social gaming app on Farcaster & Ton where users can earn crypto rewards for creating humorous content such as funny memes and playing games.**
+**SuperFunSocial is a social gaming app on Farcaster & Base where users can earn crypto rewards for creating humorous content such as funny memes and playing games.**
 
 ## Key Features
 * **Fun Feed:** A place to view and share funny content.
@@ -61,18 +61,13 @@ GameAsset : https://github.com/jaydippatel83/superfunsocial/blob/main/contracts/
 
 
 # It includes
+<img width="1440" alt="Screenshot 2024-06-29 at 9 38 42 AM" src="https://github.com/mansijoshi17/SuperFunSocial-Devfolio/assets/54347081/4eac41b3-3ce2-4ea8-8efa-a16c0bd1ec09">
 
-<img width="1440" alt="Screenshot 2024-06-29 at 9 38 42 AM" src="https://github.com/mansijoshi17/superfunsocialTon/assets/54347081/46c3a294-e7cc-4cb3-b27f-931c5e1382e5">
+<img width="1440" alt="Screenshot 2024-06-29 at 9 38 57 AM" src="https://github.com/mansijoshi17/SuperFunSocial-Devfolio/assets/54347081/177e7638-c443-445e-9cb9-df9bbe083a9f">
 
+<img width="1277" alt="Screenshot 2024-06-29 at 9 39 29 AM" src="https://github.com/mansijoshi17/SuperFunSocial-Devfolio/assets/54347081/0293152b-b2c2-4fcd-b440-00f23af9cc78">
 
-<img width="1440" alt="Screenshot 2024-06-29 at 9 38 57 AM" src="https://github.com/mansijoshi17/superfunsocialTon/assets/54347081/1ccebbdb-790c-4492-8986-78341b45bec0">
-
-
-<img width="1277" alt="Screenshot 2024-06-29 at 9 39 29 AM" src="https://github.com/mansijoshi17/superfunsocialTon/assets/54347081/09a930c6-3d0f-4410-b20e-73b50c515e5b">
-
-
-<img width="1440" alt="Screenshot 2024-06-29 at 9 39 45 AM" src="https://github.com/mansijoshi17/superfunsocialTon/assets/54347081/44668085-b16d-4c7e-b409-7ec6ee63e161">
-
+<img width="1440" alt="Screenshot 2024-06-29 at 9 39 45 AM" src="https://github.com/mansijoshi17/SuperFunSocial-Devfolio/assets/54347081/31d741ea-382f-47ae-8214-6380d2fbbc7a">
 
 
 # Let's Connect!
